@@ -38,10 +38,8 @@ const purchase = (e) => {
   dataLayer.push({
     event: "purchase",
     ecommerce: {
-      transaction_id: randomTransactionId,
       value: 99.99,
       currency: "EUR",
-      tax: 19,
       items: [
         {
           item_id: "1234",
