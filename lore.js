@@ -1,4 +1,4 @@
-/MANIPULATE THE FORM ELEMENT UPON SUBMIT
+//MANIPULATE THE FORM ELEMENT UPON SUBMIT
 //grab the from from the DOM
 const form = document.getElementById("form");
 
